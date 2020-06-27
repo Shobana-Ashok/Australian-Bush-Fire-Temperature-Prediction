@@ -44,4 +44,5 @@ X_train.shape,X_test.shape,y_train.shape,y_test.shape
 | KNN           	| 82.6       	| 0.192               	|
 | Decision Tree 	| 83.6       	| 0.167               	|
 | Random Forest 	| 87.3       	| 0.129               	|
+
 The RandomForest Classifier is pretty good compared with other classifiers in terms of performance, with the score of 0.87, as well as good precision and recall score.
